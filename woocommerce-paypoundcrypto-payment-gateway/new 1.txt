@@ -1,0 +1,7 @@
+http://localhost/jwellary/checkout-2/order-received/3749/?key=wc_order_UZpztI8lR8Ixo&status=success&&message=Approved&order_id=1629108027OZWATE9AMV&customer_order_id=3749
+
+
+http://localhost/jwellary/checkout-2/order-received/3751/?key=wc_order_uGE3gG0WZO1u8&status=fail&message=Failed%203D%20Authentication&order_id=1629109005KBHYYCQBD3&customer_order_id=3751
+
+
+http://localhost/jwellary/checkout-2/order-received/3752/?key=wc_order_0TsEptHwDV3De
