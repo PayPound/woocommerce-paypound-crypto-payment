@@ -8,7 +8,7 @@ First of all, Let's download the PayPound WordPress plugin zip file. You will fi
 
 Just go to the **Plugins > Add New** page then click on the **Upload Plugin** button. You will find it beside the Add Plugins title. Once you click it you will see the interface like below.
 
-![WordPress PayPound plugin installation](https://github.com/PayPound/woocommerce-paypound-card-payment/blob/master/assets/WordPress%20PayPound%20plugin%20installation.png?raw=true)
+![WordPress PayPound plugin installation](https://github.com/PayPound/woocommerce-paypound-crypto-payment/blob/master/assets/WordPress%20PayPound%20plugin%20installation.png?raw=true)
 
 Just click on the **choose file** button then choose the PayPound WordPress plugin zip file then click on the **Install Now** button.
 
@@ -18,12 +18,11 @@ Once you installed the PayPound WordPress plugin you will find the Payment optio
 
 Once you open the WooCommerce Payments setting page you will see the **PayPound Payment** method. Just enable the PayPound Payment method by click on the switch button and enable it.
 
-![WordPress PayPound payment method](https://github.com/PayPound/woocommerce-paypound-
--payment/blob/master/assets/WordPress%20PayPound%20payment%20method.png?raw=true)
+![WordPress PayPound payment method](https://github.com/PayPound/woocommerce-paypound-crypto-payment/blob/master/assets/PayPound%20Crypto%20Payment%20method.png?raw=true)
 
 Now, Click on the **Manage** or **Set up** button to set up the PayPound payment method. You must require the valid **API Key** to enable the PayPound payment method. You can easily find the API Key from your PayPound account. Once you go to the PayPound payment method setting page you will see the interface like below.
 
-![WooCommerce PayPound settings page](https://github.com/PayPound/woocommerce-paypound-card-payment/blob/master/assets/WooCommerce%20PayPound%20settings%20page.png?raw=true)
+![WooCommerce PayPound settings page](https://github.com/PayPound/woocommerce-paypound-crypto-payment/blob/master/assets/PayPound%20Crypto%20Payment%20method%20settings.png?raw=true)
 
 As you can see, You can easily change the PayPound payment method setting and set up the payment method from the setting page.
 
