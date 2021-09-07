@@ -35,6 +35,6 @@ As you can see, You can easily change the PayPound payment method setting and se
 
 ## How to use PayPound WordPress Plugin
 
-Once you set up the PayPound Crypto WordPress plugin then just enable it. You will see the PayPound Crypto payment method with the custom title that you set from the setting page for your customer.
+Once you set up the PayPound Crypto WordPress plugin then just enable it. You will see the PayPound Crypto payment method with the custom title that you set from the setting page for your customer on the checkout page.
 
 Enjoy the Crypto curriencies using our plugin.
