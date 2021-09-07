@@ -26,13 +26,15 @@ Now, Click on the **Manage** or **Set up** button to set up the PayPound payment
 
 As you can see, You can easily change the PayPound payment method setting and set up the payment method from the setting page.
 
-- **Enable/Disable** : You can easily Enable/Disable the payment method using **Enable PayPound Payment** method checkbox.
+- **Enable/Disable** : You can easily Enable/Disable the payment method using **Enable PayPound Crypto Payment** method checkbox.
 - **Method Title**: You can set the custom payment method title for your customers. It will show on the checkout page.
 - **Customer Message**: You can add a custom message for your customers.
-- **TestMode**: Enable **Test Mode** when you would like to test the PayPound payment method and performance a test transaction using test card detail.
+- **TestMode**: Enable **Test Mode** when you would like to performance a test transaction.
 - **API Key**: You must enter the **API key** to make working the PayPound Payment method. Even, You can't able to perform test transactions without API Key.
 - **Order Status After The Checkout**: You can customize the order status set to change the order automatically after payment receives successfully.
 
 ## How to use PayPound WordPress Plugin
 
-Once you set up the PayPound WordPress plugin then just enable it. You will see the PayPound payment method with the custom title that you set on the setting page on the checkout page.
+Once you set up the PayPound Crypto WordPress plugin then just enable it. You will see the PayPound Crypto payment method with the custom title that you set from the setting page for your customer.
+
+Enjoy the Crypto curriencies using our plugin.
