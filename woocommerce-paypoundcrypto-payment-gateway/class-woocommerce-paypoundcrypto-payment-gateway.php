@@ -84,10 +84,10 @@ class WC_Paypoundcrypto_Payment_Gateway extends WC_Payment_Gateway{
 		$currency = get_woocommerce_currency();
 		
 		
-		$ip_address=file_get_contents('http://checkip.dyndns.com/');
+		//$ip_address=file_get_contents('http://checkip.dyndns.com/');
 		
-		$ip = str_replace("Current IP Address: ","",$ip_address);
-		
+		//$ip = str_replace("Current IP Address: ","",$ip_address);
+		$ip = $_SERVER['REMOTE_ADDR'];
 		//$apikey = $this->woocommerce_paypoundcrypto_payment_api_key;
 		$apikey = $this->settings['api_key'];
 		//print_r($_POST['card']);exit;
